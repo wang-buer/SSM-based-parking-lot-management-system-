@@ -31,43 +31,37 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/13/6nPGTF7rHd1aqo8.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311142216181.jpg)
+
 
 ### 4.2 管理员模块
 
-![管理员-用户管理](https://s2.loli.net/2023/10/13/fFYMoi8m2LnUE6k.jpg)
+![管理员-车位管理](https://www.codeshop.fun/Typora-Images/202311142216673.jpg)
 
-![管理员-车位管理](https://s2.loli.net/2023/10/13/vBsOrSX8EAhQjTK.jpg)
+![管理员-车位租用管理](https://www.codeshop.fun/Typora-Images/202311142216698.jpg)
 
-![管理员-车位租用管理](https://s2.loli.net/2023/10/13/3eJEW81oVgjbdym.jpg)
+![管理员-公告管理](https://www.codeshop.fun/Typora-Images/202311142216721.jpg)
 
-![管理员-退租管理](https://s2.loli.net/2023/10/13/gwFu6JDHK1tki9y.jpg)
+![管理员-论坛管理](https://www.codeshop.fun/Typora-Images/202311142216738.jpg)
 
-![管理员-论坛管理](https://s2.loli.net/2023/10/13/EosNJMah4fKxVju.jpg)
+![管理员-退租管理](https://www.codeshop.fun/Typora-Images/202311142216751.jpg)
 
-![管理员-违规管理](https://s2.loli.net/2023/10/13/nXHUwO47sjJTd81.jpg)
+![管理员-违规管理](https://www.codeshop.fun/Typora-Images/202311142216773.jpg)
 
-![管理员-公告管理](https://s2.loli.net/2023/10/13/2IkJHwS9B16jQdh.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202311142216350.jpg)
 
 ### 4.3 用户模块
 
-![前端界面](https://s2.loli.net/2023/10/13/xw4fQpBz7FhVmUv.jpg)
+![用户-后端功能列表](https://www.codeshop.fun/Typora-Images/202311142216595.jpg)
 
-![用户-租借车位](https://s2.loli.net/2023/10/13/Na8hTswtB6c4Qzo.jpg)
-
-![用户-后端功能列表](https://s2.loli.net/2023/10/13/ezypAIu8fnotVJL.jpg)
+![用户-租借车位](https://www.codeshop.fun/Typora-Images/202311142216612.jpg)
 
 ### 4.4 文档目录
 
-![文档目录](https://s2.loli.net/2023/10/13/uwOn4e2EZNmiSU6.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202311142216521.jpg)
 
-### 获取方式&视频演示
+## 获取方式
 
-下方扫一下，回复关键词：停车场
+下方扫一扫关注后，后台回复关键词：**停车场**，查看导入教程视频、sql脚本和完整源码等
 
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
-
-
-
-
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
